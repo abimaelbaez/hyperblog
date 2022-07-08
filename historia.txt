@@ -3,3 +3,5 @@ Esta es mi historia Me llamo Abimael Baez
 Tengo 32 años estoy aprendiendo desarrollo de software 
 en platzi 
 por ahora estoy aprendiendo git 
+
+Hoy hablaremos de su vida
